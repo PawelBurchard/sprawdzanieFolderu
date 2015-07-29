@@ -1,0 +1,16 @@
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\bin\Debug\sprawdzanieFolderu.exe.config
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\bin\Debug\sprawdzanieFolderu.exe
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\bin\Debug\sprawdzanieFolderu.pdb
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\MainWindow.baml
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\MainWindow.g.cs
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\App.g.cs
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu_MarkupCompile.cache
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.g.resources
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.Properties.Resources.resources
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.exe
+c:\users\pawel\documents\visual studio 2013\Projects\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.pdb
+E:\sprawdzanieFolderu\sprawdzanieFolderu\bin\Debug\sprawdzanieFolderu.exe.config
+E:\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.exe
+E:\sprawdzanieFolderu\sprawdzanieFolderu\obj\Debug\sprawdzanieFolderu.pdb
